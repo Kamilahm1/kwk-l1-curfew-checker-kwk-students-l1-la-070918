@@ -2,8 +2,8 @@ def time
 if 8<9
   puts "Eight is less than nine"
 else
-  puts "Eight is not less than nine"
-end
+  
+
   
   
 
