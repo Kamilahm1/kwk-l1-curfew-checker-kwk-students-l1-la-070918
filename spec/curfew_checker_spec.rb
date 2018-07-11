@@ -1,11 +1,4 @@
-def time
-if 8 < 5
-  puts "Eight is less than five."
-elsif 12 >= 11
-  puts "Tweleve is greater than or equalto Tweleve."
-else
-  puts "Eight is not less than five and eight does not equal eight."
-end
+
 
 
   
