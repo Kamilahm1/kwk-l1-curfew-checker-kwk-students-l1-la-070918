@@ -1,7 +1,11 @@
-def time
-if 8<9
-  puts "Eight is less than nine"
+if 6 < 5
+  puts "Six is less than five."
+elsif 6 == 6
+  puts "Six equals six."
 else
+  puts "Six is not less than five and six does not equal six."
+end
+
   
 
   
