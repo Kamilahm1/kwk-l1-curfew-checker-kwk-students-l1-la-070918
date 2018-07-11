@@ -1,4 +1,11 @@
-
+def time
+if time>=11
+  puts "Eight is less than five."
+elsif 8== 8
+  puts " Eight equals six."
+else
+  puts "Six is not less than five and six does not equal six."
+end
 
 
   
