@@ -1,9 +1,9 @@
-if 6 < 5
-  puts "Six is less than five."
-elsif 6 == 6
-  puts "Six equals six."
+if 8 < 5
+  puts "Eight is less than five."
+elsif 8 == 8
+  puts "Eight equals Eight."
 else
-  puts "Six is not less than five and six does not equal six."
+  puts "Eight is not less than five and eight does not equal eight."
 end
 
   
