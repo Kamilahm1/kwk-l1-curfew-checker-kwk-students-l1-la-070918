@@ -1,9 +1,6 @@
 def time
 if time>=11
   puts "You're in trouble! Better get home quick!."
-elsif 8== 8
-  puts " Eight equals six."
-end
 end
 
 
