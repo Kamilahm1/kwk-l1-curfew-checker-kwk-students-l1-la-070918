@@ -4,9 +4,9 @@ if 8 < 5
 elsif 12 >= 11
   puts "Tweleve is greater than or equalto Tweleve."
 else
-  if
   puts "Eight is not less than five and eight does not equal eight."
 end
+
 
   
 
