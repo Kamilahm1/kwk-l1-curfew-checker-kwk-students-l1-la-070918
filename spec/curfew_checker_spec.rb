@@ -1,3 +1,4 @@
+def time
 if 8 < 5
   puts "Eight is less than five."
 elsif 8 == 8
